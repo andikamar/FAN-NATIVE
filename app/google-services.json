@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "481531809878",
+    "firebase_url": "https://fan-native-default-rtdb.firebaseio.com",
+    "project_id": "fan-native",
+    "storage_bucket": "fan-native.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481531809878:android:6cc7eb50b0f63bb6d3ebf7",
+        "android_client_info": {
+          "package_name": "org.dika.funnative"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZoOPmqQXlPl1ZVsqDa36xGyZvz28JZFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
